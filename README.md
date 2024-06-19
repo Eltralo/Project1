@@ -2,7 +2,7 @@
 
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Eltralo/Project1/README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/Eltralo/Project1/blob/main/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/Eltralo/Project1/README.md#Описание-проекта/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Eltralo/Project1/README.md#Описание-проекта/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Eltralo/Project1/README.md#Описание-проекта/README.md#Этапы-работы-над-проектом)  
